@@ -1,0 +1,13 @@
+{
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard).sublime-color-scheme",
+	"font_face": "Spline Sans Mono Regular",
+	/*"ignored_packages":
+	[
+		"Vintage",
+	],*/
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+}
